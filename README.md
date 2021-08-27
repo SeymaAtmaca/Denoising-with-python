@@ -1,1 +1,1 @@
-# Deep_Learning_with_Python
+# Denoising with Python
